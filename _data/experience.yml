@@ -1,0 +1,38 @@
+
+- company: Vasl
+  link: vasl.ir
+  job_title: DevOps Engineer
+  dates: March 2020 - Present
+  description: | # this will include new lines to allow paragraphs
+   - Kuberentes cluster up and running, building and maintaining Java based applications on top of kuberetes, monolith deployments using using Java, Mongodb, Redis, ActiveMQ, ...
+   - Techs: Kubernetes, Docker, CI/CD, git, Jenkins, Mongo, Springboot, Redis.
+   
+ 
+- company: AlefYe
+  link: http://www.alefye.ir/
+  job_title: DevOps Engineer
+  dates: December 2019 - March 2020
+  description: | # this will include new lines to allow paragraphs
+   - Kuberentes cluster up and running, building and maintaining Java based applications on top of kuberetes.
+   - Techs: Kubernetes, Docker, CI/CD, git, Mongodb, Springboot.
+   
+ 
+ - company: Khallagh Borhan
+  link: https://www.khallagh.com/
+  job_title: QA and DevOps Engineer
+  dates: November 2016 - November 2019
+  description: | # this will include new lines to allow paragraphs
+   - Encoder deployments on linux servers using ffmpeg and PHP
+   - Openstack Engineer and Also Operator
+   - Kuberetes Operator
+   - Techs: PHP, Java, Openstack, Docker, Kubernetes
+   
+- company: Atiran Eco Tech
+  link: NA
+  job_title: Content Specialist
+  dates: March 2016 - August 2016
+  description: | # this will include new lines to allow paragraphs
+   - Making contents for brand new high tech stores and technical artchitechtural translation into Farsi
+   
+  
+ 
