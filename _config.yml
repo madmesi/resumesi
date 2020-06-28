@@ -1,0 +1,55 @@
+# Site
+repository: madmesi/resumesi
+# favicon: images/favicon.ico
+
+# Personal info
+name: Mohammad Meskarian
+title: DevOps Enginner 
+email: mohammadmeskarian@gmail.com
+website: madmesi.ir
+
+# Social links
+twitter_username: mohammadmeskari
+github_username:  madmesi
+instagram_username: madmesi
+linkedin_username: mohammad-meskarian
+
+
+# About Section
+# about_title: About Me
+about_profile_image: profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  Experienced System Administrator with a demonstrated history of working in the ICT services. Skilled in Linux, Kubernetes and Openstack, and System architechture. Currently working as a DevOps Engineer.
+  
+  I am most skilled in: <mark>Kubernetes</mark> and <mark>Coffee</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  I'd like to spend my pastime doing these:
+    - Online Gaming 🎮
+    - Desgin Websites with Wordpress
+    - Listening to Music
+    - Photography
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
