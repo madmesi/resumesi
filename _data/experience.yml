@@ -4,8 +4,9 @@
   job_title: DevOps Engineer
   dates: March 2020 - Present
   description: | # this will include new lines to allow paragraphs
-   - Kuberentes cluster up and running, building and maintaining Java based applications on top of kuberetes, monolith deployments using using Java, Mongodb, Redis, ActiveMQ, ...
+   - Kuberentes cluster up and running, building and maintaining Java based applications on top of kuberetes, monolith deployments using Java, Mongodb, Redis, ActiveMQ, ...
    - Techs: Kubernetes, Docker, CI/CD, git, Jenkins, Mongo, Springboot, Redis.
+   - Duty: Deployment using bash-scripts and ansible, manifest installation on Kubernetes. Monitoring using Prometheus, Zabbix and Netdata.
    
  
 - company: AlefYe
@@ -31,7 +32,14 @@
   job_title: Content Specialist
   dates: March 2016 - August 2016
   description: | # this will include new lines to allow paragraphs
-   - Making contents for brand new high tech stores and technical artchitechtural translation into Farsi
-   
+   - Making contents for brand new high tech stores and technical artchitechtural translation into Farsi.
+  
+ 
+- company: Varsa Digital Agency
+  link: NA
+  job_title: Content Specialist
+  dates: October 2016 - March 2016
+  description: | # this will include new lines to allow paragraphs
+   - Content Marketing for Socail Media Pages: Making contents for brand new high tech stores and technical artchitechtural translation into Farsi.
   
  
